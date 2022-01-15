@@ -12,7 +12,7 @@ public class program10 {
         arraylist.add("Banana");
         arraylist.add("Pear");
         arraylist.add("Mango");
-
+        System.out.println(arraylist);
         /*Unsorted List: ArrayList content before sorting*/
         System.out.println("ArrayList Before Sorting:");
         for(String str: arraylist){
